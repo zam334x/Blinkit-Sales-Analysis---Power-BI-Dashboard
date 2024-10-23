@@ -2,22 +2,22 @@
 I'm excited to present a detailed sales dashboard that offers valuable insights into Blinkit's performance! 
 
 Dataset:
-Total No. of Rows - 8523
-Total No. of Columns - 12
+1) Total No. of Rows - 8523
+2) Total No. of Columns - 12
 
 The Blinkit_Dataset.xlsx file and has the following columns, details of which are as follows:
-• Item_Fat_Content: Indicates whether the product is low fat or not.
-• Item_Identifier: A unique ID for each product in the dataset.
-• Item_Type: The category or type of product.
-• Outlet_Establishment_Year: The year in which the store was established.
-• Outlet_Identifier: A unique ID for each store in the dataset.
-• Outlet_Location_Type: The type of city or region in which the store is located.
-• Outlet_Size: The size of the store in terms of ground area covered.
-• Outlet_Type: Indicates whether the store is a grocery store or a supermarket.
-• Item_Visibility: The percentage of the total display area in the store that is allocated to the specific product.
-• Item_Weight: The weight of the product.
-• Sales: The sales of the product in the particular store. This is the outcome variable that we want to predict.
-• Rating: Maximum rating of the product.
+1) Item_Fat_Content: Indicates whether the product is low fat or not.
+2) Item_Identifier: A unique ID for each product in the dataset.
+3) Item_Type: The category or type of product.
+4) Outlet_Establishment_Year: The year in which the store was established.
+5) Outlet_Identifier: A unique ID for each store in the dataset.
+6) Outlet_Location_Type: The type of city or region in which the store is located.
+7) Outlet_Size: The size of the store in terms of ground area covered.
+8) Outlet_Type: Indicates whether the store is a grocery store or a supermarket.
+9) Item_Visibility: The percentage of the total display area in the store that is allocated to the specific product.
+10) Item_Weight: The weight of the product.
+11) Sales: The sales of the product in the particular store. This is the outcome variable that we want to predict.
+12) Rating: Maximum rating of the product.
 
 Business Requirement:
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
