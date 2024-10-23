@@ -1,4 +1,4 @@
-# Blinkit-Sales-Analysis---Power-BI-Dashboard
+# Blinkit Sales Analysis - Power BI Dashboard
 I'm excited to present a detailed sales dashboard that offers valuable insights into Blinkit's performance! 
 
 Dataset:
