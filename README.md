@@ -19,6 +19,9 @@ The Blinkit_Dataset.xlsx file and has the following columns, details of which ar
 11) Sales: The sales of the product in the particular store. This is the outcome variable that we want to predict.
 12) Rating: Maximum rating of the product.
 
+## Dashboard
+![Dashboard](Dashboard_Image.png)
+
 Business Requirement:
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
@@ -27,9 +30,6 @@ KPI's:
 2) Average Sales: The average revenue per sale.
 3) Number of Items: The total count of different items sold.
 4) Average Rating: The average customer rating for items sold.
-
-## Dashboard
-![Dashboard](Dashboard_Image.png)
 
 Here's what the dashboard reveals:
 1) Total Sales: A massive $1.2M, with an average sale of $141. The data is segmented by outlet location, type, and size, giving a detailed breakdown of sales distribution.
