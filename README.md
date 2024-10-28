@@ -28,6 +28,9 @@ KPI's:
 3) Number of Items: The total count of different items sold.
 4) Average Rating: The average customer rating for items sold.
 
+## Dashboard
+![Dashboard](Dashboard.png)
+
 Here's what the dashboard reveals:
 1) Total Sales: A massive $1.2M, with an average sale of $141. The data is segmented by outlet location, type, and size, giving a detailed breakdown of sales distribution.
 2) Average Rating: A solid customer satisfaction score of 3.9, reflecting quality service and product offerings across 8,523 items.
